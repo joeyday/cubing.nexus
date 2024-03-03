@@ -10,15 +10,14 @@ layout: default
   {{ content }}
 
   {%- if site.resources.size > 0 -%}
-  
-	<ul> class="resource-list">
+	<ul class="resource-list">
 	  {%- for resource in site.resources -%}
 	  	<li>
 	  	  {{ resource.name | escape }}
 	  	</li>
 	  {%- endfor -%}
 	  <li>
-  
+	</ul>  
   {%- endif -%}
 
   {%- if site.posts.size > 0 -%}
