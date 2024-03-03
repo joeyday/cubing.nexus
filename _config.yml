@@ -18,16 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Cubing Nexus
+# email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Cubing Nexus is a hub for tools, resources, and content related to
-  twisty puzzles. The goal is to be an unbiased and exhaustive directory
-  helping you discover all the cool stuff this amazing community has made.
+  Cubing Nexus aims to be an unbiased and exhaustive directory of tools,
+  resources, and content created by and for the twisty puzzle enthusiast
+  community. Whether you're a casual cuber, speedsolver, mathemetician,
+  collector, or even a curious newcomer, we hope you find something fun
+  to explore here.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://cubing.nexus" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
 theme: minima
