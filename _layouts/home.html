@@ -9,6 +9,18 @@ layout: default
 
   {{ content }}
 
+  {%- if site.resources.size > 0 -%}
+  
+	<ul> class="resource-list">
+	  {%- for resource in site.resources -%}
+	  	<li>
+	  	  {{ resource.name | escape }}
+	  	</li>
+	  {%- endfor -%}
+	  <li>
+  
+  {%- endif -%}
+
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
