@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Welcome to Cubing Nexus, a free, impartial, and comprehensive directory for content, tools, and resources related to Rubik’s Cube and other twisty puzzles.
