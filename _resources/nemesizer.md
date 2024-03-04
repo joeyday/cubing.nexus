@@ -1,6 +1,6 @@
 ---
 name:  "Nemesizer"
-url: https://www.nemesizer.com
+link: https://www.nemesizer.com
 categories: "statistics"
 ---
 

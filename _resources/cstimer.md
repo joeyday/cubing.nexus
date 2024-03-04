@@ -1,6 +1,6 @@
 ---
 name:  "CSTimer"
-url: https://cstimer.net
+link: https://cstimer.net
 categories: timers
 ---
 

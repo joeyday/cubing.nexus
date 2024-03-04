@@ -1,6 +1,6 @@
 ---
 name:  "World Cube Association"
-url: https://www.worldcubeassociation.org
+link: https://www.worldcubeassociation.org
 categories: "competition leagues"
 ---
 

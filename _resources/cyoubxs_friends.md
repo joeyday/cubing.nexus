@@ -1,6 +1,6 @@
 ---
 name: "Cyoubx’s Friends"
-url: https://www.facebook.com/groups/cyoubxfriends/
+link: https://www.facebook.com/groups/cyoubxfriends/
 categories: "facebook groups"
 ---
 

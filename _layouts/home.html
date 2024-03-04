@@ -13,7 +13,7 @@ layout: default
 	<div class="resource-container">
 	  {%- for resource in site.resources -%}
 	  	<div class="resource-item">
-	  	  <h3><a href="{{ resource.url }}">{{ resource.name | escape }}</a></h3>
+	  	  <h3><a href="{{ resource.link }}">{{ resource.name | escape }}</a></h3>
 	  	  {{ resource.content }}
 	  	</div>
 	  {%- endfor -%}
