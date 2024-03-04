@@ -1,4 +1,4 @@
-div.resource-container {
+div.category-container, div.resource-container {
 	width: 100%;
 	display: grid;
 	grid-auto-flow: row;
@@ -16,7 +16,7 @@ div.resource-container {
 	column-gap: 1em;
 	row-gap: 1em;
 		
-	div.resource-item {
+	div.category-item, div.resource-item {
 		border: 1px solid #999;
 		padding: 1em;
 		

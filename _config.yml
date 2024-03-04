@@ -53,4 +53,16 @@ plugins:
 #   - vendor/ruby/
 
 collections:
-  - resources
+  category_pages:
+    output: true
+    permalink: /category/:path
+  resources:
+    output: false
+
+defaults:
+  - 
+    scope:
+      path: ""
+      type: category_pages
+    values:
+      layout: category

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="category">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- assign resources = site.resources | where_exp:"resource", "resource.categories contains page.category" -%}
+  <div class="resource-container">
+    {%- for resource in resources -%}
+	  <div class="resource-item">
+	    <h3><a href="{{ resource.link }}">{{ resource.name | escape }}</a></h3>
+	    {{ resource.content }}
+	  </div>
+    {%- endfor -%}
+  </div>
+
+</div>

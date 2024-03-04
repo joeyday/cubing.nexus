@@ -9,15 +9,14 @@ layout: default
 
   {{ content }}
 
-  {%- if site.resources.size > 0 -%}
-	<div class="resource-container">
-	  {%- for resource in site.resources -%}
-	  	<div class="resource-item">
-	  	  <h3><a href="{{ resource.link }}">{{ resource.name | escape }}</a></h3>
-	  	  {{ resource.content }}
-	  	</div>
-	  {%- endfor -%}
-	</ul>  
-  {%- endif -%}
+  <h2>Browse categories</h2>
+  <div class="category-container">
+    {%- for category in site.category_pages -%}
+      <div class="category-item">
+	    <h3><a href="{{ category.url }}">{{ category.title | escape }}</a></h3>
+	    {{ category.content }}
+	  </div>
+    {%- endfor -%}
+  </div>  
 
 </div>
