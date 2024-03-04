@@ -14,7 +14,6 @@ layout: default
     {%- for category in site.category_pages -%}
       <div class="category-item">
 	    <h3><a href="{{ category.url }}">{{ category.title | escape }}</a></h3>
-	    {{ category.content }}
 	  </div>
     {%- endfor -%}
   </div>  
