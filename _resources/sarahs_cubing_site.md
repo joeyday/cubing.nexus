@@ -1,5 +1,5 @@
 ---
-name:  "Sarah’s Cubing Site"
+name: Sarah’s Cubing Site
 link: https://sarah.cubing.net
 categories:
   - algorithm lists

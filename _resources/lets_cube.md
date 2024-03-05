@@ -1,5 +1,5 @@
 ---
-name: "Let’s Cube"
+name: Let’s Cube
 link: https://letscube.net
 categories:
   - contests & leagues

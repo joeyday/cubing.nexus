@@ -1,5 +1,5 @@
 ---
-name:  "Nemesizer"
+name: Nemesizer
 link: https://www.nemesizer.com
 categories:
   - statistics

@@ -1,5 +1,5 @@
 ---
-name:  "World Cube Association"
+name: World Cube Association
 link: https://www.worldcubeassociation.org
 categories:
   - contests & leagues

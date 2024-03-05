@@ -1,5 +1,5 @@
 ---
-name:  "Monkey League"
+name: Monkey League
 link: https://monkeyleague.org
 categories:
   - contests & leagues

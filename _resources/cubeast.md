@@ -1,5 +1,5 @@
 ---
-name:  "Cubeast"
+name: Cubeast
 link: https://www.cubeast.com
 categories:
   - timers

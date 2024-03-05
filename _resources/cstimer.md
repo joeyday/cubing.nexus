@@ -1,5 +1,5 @@
 ---
-name:  "csTimer"
+name: csTimer
 link: https://cstimer.net
 categories:
   - timers

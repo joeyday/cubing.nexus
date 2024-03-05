@@ -1,5 +1,5 @@
 ---
-name: "Senior Rankings"
+name: Senior Rankings
 link: https://logiqx.github.io/wca-ipy-www/
 categories:
   - statistics

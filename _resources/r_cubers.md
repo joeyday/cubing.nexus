@@ -1,5 +1,5 @@
 ---
-name: "r/Cubers"
+name: r/Cubers
 link: https://www.reddit.com/r/Cubers/
 categories:
   - communities
