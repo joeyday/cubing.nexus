@@ -6,4 +6,4 @@ categories:
   - facebook groups
 ---
 
-Cyoubx’s official group page. Feel free to add members, ask questions, and interact with me :)
+Cyoubx’s official group. Share your cubing journey, ask for advice, and engage with other cubers.
