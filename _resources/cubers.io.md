@@ -1,5 +1,5 @@
 ---
-name: "Cubers.io"
+name: Cubers.io
 link: https://www.cubers.io
 categories:
   - contests & leagues

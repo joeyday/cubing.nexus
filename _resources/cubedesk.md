@@ -1,5 +1,5 @@
 ---
-name:  "CubeDesk"
+name: CubeDesk
 link: https://www.cubedesk.io
 categories:
   - timers
